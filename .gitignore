@@ -1,0 +1,13 @@
+core
+*.o
+*.so
+build
+.idea
+.kateproject
+.kateproject.d/
+main
+vgcore*
+
+# QtCreator
+*.user
+*.user.*
